@@ -97,4 +97,5 @@ plt.show()
 
 # Hardware experiment output waveform.
 
+![jpg](https://github.com/user-attachments/assets/12d531ea-382c-4fbf-a86a-e49370a06957)
 
